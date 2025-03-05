@@ -1,0 +1,2 @@
+[2025-03-04 12:10:45] 500 Internal server error
+[2025-03-04 12:20:30] 503 Service unavailable
